@@ -15,6 +15,9 @@
 #define beta int8_t
 #define alpha int16_t
 #define sigma int32_t
+#define ubeta uint8_t
+#define ualpha uint16_t
+#define usigma uint32_t
 #define goofy_ahh float 
 #define blud =
 #define bussin > 
