@@ -18,5 +18,6 @@
 #define goofy_ahh float 
 #define blud =
 #define bussin > 
+#define NUN NULL
 
 #endif
